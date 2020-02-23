@@ -10,7 +10,7 @@
                 </div>
                 <div class="gaadiex-list">
                     <div class="gaadiex-list-item">
-                        <a href="#">
+                        <a href="/check/1">
                             <img class="gaadiex-list-item-img" src="http://www.free-icons-download.net/images/commercial-male-user-icon-32765.png" alt="List user">
                         </a>
                         <div class="gaadiex-list-item-text">
@@ -21,7 +21,7 @@
                     </div>
                     <hr class="bg-dark">
                     <div class="gaadiex-list-item">
-                        <a href="#">
+                        <a href="/check/1">
                             <img class="gaadiex-list-item-img" src="http://www.free-icons-download.net/images/commercial-male-user-icon-32765.png" alt="List user">
                         </a>
                         <div class="gaadiex-list-item-text">
@@ -32,7 +32,7 @@
                     </div>
                     <hr class="bg-dark">
                     <div class="gaadiex-list-item">
-                        <a href="#">
+                        <a href="/check/1">
                             <img class="gaadiex-list-item-img" src="http://www.free-icons-download.net/images/commercial-male-user-icon-32765.png" alt="List user">
                         </a>
                         <div class="gaadiex-list-item-text">
@@ -43,7 +43,7 @@
                     </div>
                     <hr class="bg-dark">
                     <div class="gaadiex-list-item">
-                        <a href="#">
+                        <a href="/check/1">
                             <img class="gaadiex-list-item-img" src="http://www.free-icons-download.net/images/commercial-male-user-icon-32765.png" alt="List user">
                         </a>
                         <div class="gaadiex-list-item-text">
@@ -54,7 +54,7 @@
                     </div>
                     <hr class="bg-dark">
                     <div class="gaadiex-list-item">
-                        <a href="#">
+                        <a href="/check/1">
                             <img class="gaadiex-list-item-img" src="http://www.free-icons-download.net/images/commercial-male-user-icon-32765.png" alt="List user">
                         </a>
                         <div class="gaadiex-list-item-text">
