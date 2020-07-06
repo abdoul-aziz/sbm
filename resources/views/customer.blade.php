@@ -25,8 +25,8 @@
                             <img class="gaadiex-list-item-img" src="http://www.free-icons-download.net/images/commercial-male-user-icon-32765.png" alt="List user">
                         </a>
                         <div class="gaadiex-list-item-text">
-                            <h3>GAFO001</h3>
-                            <h4>Store 1</h4>
+                            <h3>GAFO002</h3>
+                            <h4>Store 2</h4>
                             <small>location</small>
                         </div>
                     </div>
@@ -36,8 +36,8 @@
                             <img class="gaadiex-list-item-img" src="http://www.free-icons-download.net/images/commercial-male-user-icon-32765.png" alt="List user">
                         </a>
                         <div class="gaadiex-list-item-text">
-                            <h3>GAFO001</h3>
-                            <h4>Store 1</h4>
+                            <h3>GAFO003</h3>
+                            <h4>Store 3</h4>
                             <small>location</small>
                         </div>
                     </div>
@@ -47,23 +47,11 @@
                             <img class="gaadiex-list-item-img" src="http://www.free-icons-download.net/images/commercial-male-user-icon-32765.png" alt="List user">
                         </a>
                         <div class="gaadiex-list-item-text">
-                            <h3>GAFO001</h3>
-                            <h4>Store 1</h4>
+                            <h3>GAFO004</h3>
+                            <h4>Store 4</h4>
                             <small>location</small>
                         </div>
                     </div>
-                    <hr class="bg-dark">
-                    <div class="gaadiex-list-item">
-                        <a href="/check/1">
-                            <img class="gaadiex-list-item-img" src="http://www.free-icons-download.net/images/commercial-male-user-icon-32765.png" alt="List user">
-                        </a>
-                        <div class="gaadiex-list-item-text">
-                            <h3>GAFO001</h3>
-                            <h4>Store 1</h4>
-                            <small>location</small>
-                        </div>
-                    </div>
-                    <hr class="bg-dark">
                 </div>
             </div>
         </div>
